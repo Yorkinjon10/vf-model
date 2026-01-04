@@ -1,0 +1,5 @@
+Hello there!
+How are you today?
+I am a tiny language model.
+I like to learn and generate text.
+Let's see what I can do.
